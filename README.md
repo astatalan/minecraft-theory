@@ -14,3 +14,6 @@ youtube comments.txt
 minecraft theory (annotated).md
 
 minecraft theory (raw).txt
+
+
+could not fit in bio: "The definition of logic is something turns off when others turn on, and something turns on when others turn off, and has the ability to combine nonexclusively." quote created in may 13 2023. 00:19
