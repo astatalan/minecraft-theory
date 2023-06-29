@@ -159,7 +159,7 @@ Endermites can infest endstone in the singularity. The endermites ate so much en
 
 Bees are so bad as arthropods that they can only infest a beehive.
 
-### 1983 черные метки lyrics
+### White forces lyrics
 
 
 ###### The spawners choose the blazes to be hot. In "white forces" the spawner focused on the lyrics that is descriptive of the enemy. "Uchikudake  kooritsuita  shin'en ni hisomu sono teki wo" makes the spawner thinks that the enemy is frozen. The counter to cold is heat, so the spawners decide to invent the blaze. "Setsunasa mo  mune no itami mo " refrences the inside of the spawner. " subete himeta yuuki ni kae" and the spawner's inside turn into blazes. "Tadashisa wo  mamorinuku to  ketsui shita ano hi ga aru kara" describes a nether fortress. The spawner is black because of a mistranslation. "Ima hibiku  kuro no senkoku  kono kokoro ni" mistranslates to black sentence. The kind of sentence meaning jail. " kakusareta chikai  tsuyosa wo matou" describes the spawner spawning blazes.
