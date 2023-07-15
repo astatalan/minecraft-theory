@@ -1,5 +1,4 @@
-# 6g8h7gtde53f
-Minecraft theory. 
+# Minecraft theory. 
 
 Read in order:
 
@@ -12,6 +11,8 @@ minecraft timeline summary.txt
 youtube comments.txt
 
 minecraft theory (annotated).md
+
+update.md
 
 minecraft theory (old).txt
 
