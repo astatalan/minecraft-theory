@@ -49,3 +49,27 @@ On July 14, My Idol Obsession release a video on  Yoshino Nanjou. I was earlier 
 My brother is going to take the ACT exam on July 15. It would only be a few hours after I create update.md that he will take the ACT exam. He just passed 9th grade and have scored 33 on his practice exam which beat my 11th grade attempt by 2. He also finished a section with 14 extra minutes. Furthermore, his first ACT which was scored in 8th grade was 29 while I had to wait to 10th grade to score it. 
 
 On July 14, my mom decide to buy 10 stacks of ribs from Kroger, so I had to download and sign up on the Kroger app. My brother decided to go shopping for tomatoes. We had to wait for my little sister to finish online chinese class which was from 7pm to 9pm. We shopped and returned at 10pm. It delayed my attempt to write until 11pm. It is all in Lima time.
+
+## 34th commit
+
+I could have mention that my 33rd commit was the first to mention the number 33. It would be 34th commit that I mention the coincidence. 
+
+If you want to compare, my 1st ACT score is 25 in 7th grade. That would put it on the 1st commit of June 22.
+
+My brother’s 1st ACT score is a 29 and so is my official practice ACT in 10th grade given by my school. That would make it on the 1st commit of June 28.
+
+My second ACT test which is with writing was taken in 10th grade and I scored a 30. That would make it the last and second commit of June 28.
+
+My last ACT test scored a 31. It was without writing since the test was sponsored by the school. That would make it the 1st commit of July 15 and the creation of update.md
+
+I hope that the 36th commit is the last one because ACT only goes up to 36. Or, maybe 37 because it is a prime number. 
+
+I hope to end on a commit that announces that I am with Yoshino Nanjou. Actually, I wish that only Yoshino Nanjou ever sees this besides me before I make the commit. 
+
+I was not intending for a rule 34 pun on commit 34. 
+
+One more concindence before I commit: on line 57 of update.md. There is 25 and 7. It can make July 25, but that is quite far-fetched. The coincidence breaks if you account for the year. I was in 7th grade in 2017 and not 2018. On the other hand, the coincidence reappears because the commit was on June 22 which is exactly 1 month before July 22 (although I know it was because of Pi approximation date and Nico's birthday) which was the publication date of 7/25 by Yoshino Nanjou. Commits are like publications, so that counts. Line 57 has 2 sentences, and it is the 2nd paragraph of the commit. And, it is the second shortest paragraph in the commit, and it is on the 2nd commit on update.md if you count creation not as a intial commit. 2 and 57 is just a rearrangement of 25 and 7. I had a feeling to write 2 compound sentences with the second one starting with a conjunction and being a compound complex sentence. I am writting because I fear that I will go over 36 commits.
+
+If my 35th commit is when I announce, there is also a coincidence. It is that I knew about Yoshino Nanjou when she was 35. 36 is also an important number, but so is 37, 38, and 39. 40 is not so much. After all, I think that it being the 36th commit would make the most coincidental because I knew about her means that she had already turned 35. And, she seeing the 35th commit is like that. I should not think about it so much because ACT and commits only go down to 1.
+
+3:14 I had considered commiting, but now I realize that rule 34 was mentioned on line 69. After 3:14 : line 63 has 1, 7, 15, 31. They are all mersenne numbers which I realized at 3:15 which also has 2 more mersenne numbers. Line 55 has 33. Line 59 has a number ending in 9, and 1 plus 28 is 29. I don't want that to be on line 79 because then 29+60-10. Line 25, 35, 45 are all bold and line 75 mentions this. Line 53 mentions 34, and 53 is 10 away from 43. Just read line 43 and it talks about me writing, bigness, and viewers. I read 65 and you can draw the lines. I am still heere all because I don't want to make another commit. I will just keep whatever about 65 in my head.
